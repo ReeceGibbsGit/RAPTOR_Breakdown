@@ -1,5 +1,5 @@
 import os
-os.environ['OPENAI_API_KEY'] = 'sk-proj-fERHt7WuVXnUpTS1upNKT3BlbkFJqHIMrGosXD1Xo1hxNEJR'
+os.environ['OPENAI_API_KEY'] = ''
 
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
